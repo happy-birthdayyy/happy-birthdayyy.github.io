@@ -1,5 +1,5 @@
 // configuration
-var quote = "Merhaba Kübra Abla "
+var quote = " Merhaba Kübra Abla "
 var birthdaywishee = "Doğum günün kutlu olsun sevdiklerinle beraber güzel senelerin olsun"
 var birthdaywisher = "-Burakcan Şentepe"
 
