@@ -1,7 +1,7 @@
 // configuration
 var quote = "Merhaba Kübra Abla "
 var birthdaywishee = "Doğum günün kutlu olsun sevdiklerinle beraber güzel senelerin olsun"
-var birthdaywisher = "- Burakcan Şentepe"
+var birthdaywisher = "-Burakcan Şentepe"
 
 if (quote.length > 50) {
     document.getElementById('quote').innerHTML = "“”"
